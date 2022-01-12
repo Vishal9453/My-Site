@@ -1,7 +1,7 @@
 body{
-  background-color: #CAF7E3 ;
+  background-color: #88E0EF ;
   text-align: center;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Dongle', sans-serif;
   font-size: 30px;
 }
 hr{
@@ -35,8 +35,19 @@ h3{
   right: 100px;
   top: 150px;
 }
+.cloud3 {
+  position: absolute;
+  top: 400px;
+  right: 150px;
+  }
+  .cloud4 {
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    }
 .bottom-container{
-  background-color: #1EAE98;
+  border-radius: 48% 34% 10% 10% / 24% 27% 0% 0% ;
+  background-color: #FFEEAD;
   padding: 50px 0 20px;
 }
 .footer-link{
@@ -64,11 +75,11 @@ h3{
   background: -webkit-linear-gradient( center top, #3d84b8 5%, #344fa1 100% );
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
-  border-radius: 8px;
+  border-radius: 30% 70% 70% 30% / 36% 45% 55% 64%  ;
   font-family: Arial;
   color: #ffffff;
   font-size: 23px;
-  padding: 10px 20px 10px 20px;
+  padding: 20px 30px 20px 30px;
   text-decoration: none;
 }
 
